@@ -1,0 +1,3 @@
+Rounders Scorer — Offline Test
+
+Upload the SIX web files (index.html, rounders-logo.jpg, manifest.webmanifest, service-worker.js, icon-192.png, icon-512.png) to the ROOT of the PUBLIC test GitHub repository. README.txt is optional. Enable GitHub Pages in Settings > Pages, deploy from main / (root). Open the resulting github.io URL in Safari once while connected to the Internet, allow it to load, then use Share > Add to Home Screen. Test offline by turning on Airplane Mode and opening the Home Screen app after it has loaded online. Local match records stay on that iPhone/browser and are not cloud-backed. Never use real sensitive player information or rely on prototype for official matches.
