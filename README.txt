@@ -9,3 +9,5 @@ Version 7.2: Out opens a centered pop-up with the current batter first and prese
 V7.3: The New Match form now saves automatically on this iPhone before Start Match, and restores on reopening. A Save match setup for later button gives additional confirmation.
 
 VERSION 7.4: At every innings change, confirm or edit the incoming team batting order in a pop-up. Previous scoring records remain intact.
+
+V7.5: Before Start Match, choose which team bats first; correct innings sequence for either team; keeps home/away scoreboard positions.
