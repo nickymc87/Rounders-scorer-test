@@ -1,7 +1,7 @@
-Rounders Scorer V8.4 – Automatic Tournament Groups and Fixtures
+ROUNDERS SCORER V8.6 — Tournament dashboard update
 
-Add teams, select number of groups, Generate Groups, then Generate Fixtures. Generated fixtures are round-robin for each group. Teams can be reassigned to groups before generating fixtures. Sign-off results automatically populate fixtures and standings on this device only. Shared live scores require a backend.
+The existing Home screen and scoring remain intact. Tournament Centre now has Overview, Fixtures (To score / Completed / All), Tables, Knockout, and Manage tabs. After both umpires sign, use Return to Tournament Dashboard.
 
-Upload all files to an existing GitHub Pages repo root. Backup important records first; this is a test build.
+All tournament results remain local to this device. Cross-phone live scoring and automated knockout advancement are NOT yet implemented.
 
-V8.5: Fixed Balls naming, selectable tournament good-ball limit, passed to fixture match setup.
+Upload all site files to the root of the existing Github Pages repository. Do not upload this ZIP itself. Back up any important local data before updating.
