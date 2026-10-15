@@ -1,9 +1,4 @@
-ROUNDERS SCORER V8.6 — Tournament dashboard update
-
-The existing Home screen and scoring remain intact. Tournament Centre now has Overview, Fixtures (To score / Completed / All), Tables, Knockout, and Manage tabs. After both umpires sign, use Return to Tournament Dashboard.
-
-All tournament results remain local to this device. Cross-phone live scoring and automated knockout advancement are NOT yet implemented.
-
-Upload all site files to the root of the existing Github Pages repository. Do not upload this ZIP itself. Back up any important local data before updating.
-
-V8.8: Organiser setup labelled Create Tournament, clear create entry on overview and direct setup for a new tournament.
+Rounders Scorer V8.9 — Easier navigation and iPhone Home Screen icon
+Upload all files to the root of the existing GitHub Pages repository.
+Update the site while online; Home Screen icon updates may require creating a new Home Screen shortcut.
+Back up important local match results before changes. Tournament sync between devices is not yet connected.

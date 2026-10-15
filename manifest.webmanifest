@@ -1,6 +1,6 @@
 {
-  "name": "Rounders Scorer \u2014 Offline Test",
-  "short_name": "Rounders Scorer",
+  "name": "Rounders Scorer",
+  "short_name": "Rounders",
   "description": "Rounders scoring, match records and tournaments",
   "start_url": "./",
   "scope": "./",
@@ -16,6 +16,11 @@
     {
       "src": "icon-512.png",
       "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png"
     }
   ]
