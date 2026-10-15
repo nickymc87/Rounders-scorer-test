@@ -1,4 +1,4 @@
-Rounders Scorer V8.9 — Easier navigation and iPhone Home Screen icon
-Upload all files to the root of the existing GitHub Pages repository.
-Update the site while online; Home Screen icon updates may require creating a new Home Screen shortcut.
-Back up important local match results before changes. Tournament sync between devices is not yet connected.
+Rounders Scorer V9.0 — local registration and top scorer preview.
+Organiser selects maximum squad size, generates tournament join code and approves registration.
+Spectator can register team and see top scorers. Signed match rounder events aggregate by registered player.
+IMPORTANT: This is local to one browser/device. Codes cannot join another phone; no live multi-device sync or secure authentication yet. Use fictional test players. Preserve existing local data before installing.
