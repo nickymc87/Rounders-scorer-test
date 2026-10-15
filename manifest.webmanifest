@@ -1,7 +1,7 @@
 {
   "name": "Rounders Scorer \u2014 Offline Test",
   "short_name": "Rounders Scorer",
-  "description": "Rounders Scorer umpire testing prototype",
+  "description": "Rounders scoring, match records and tournaments",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
