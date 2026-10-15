@@ -1,10 +1,7 @@
-Rounders Scorer V8.2 — Home screen release candidate
+Rounders Scorer V8.4 – Automatic Tournament Groups and Fixtures
 
-Home choices: Tournament (local organiser demo), League Match, Friendly.
-Existing scoring logic retained and good-ball limits remain configurable.
+Add teams, select number of groups, Generate Groups, then Generate Fixtures. Generated fixtures are round-robin for each group. Teams can be reassigned to groups before generating fixtures. Sign-off results automatically populate fixtures and standings on this device only. Shared live scores require a backend.
 
-IMPORTANT: Tournament information is stored only on this device. This version does NOT publish live scores or share across phones. A secure backend and user accounts will be needed before that is possible.
+Upload all files to an existing GitHub Pages repo root. Backup important records first; this is a test build.
 
-To publish: Upload the contents of this folder (not the ZIP itself) to a dedicated GitHub Pages repository. Existing V7 scoring site should not be overwritten while V8 is untested.
-
-The core scoring engine has not been umpire-certified. Do not rely on this release for official results.
+V8.5: Fixed Balls naming, selectable tournament good-ball limit, passed to fixture match setup.
